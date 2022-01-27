@@ -1,6 +1,6 @@
 # MovieTime
 
-Avant de commencer, lancer :
+Avant de commencer, lancez :
 
 ```bash
 composer install

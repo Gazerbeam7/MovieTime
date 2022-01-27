@@ -51,3 +51,4 @@ Depuis le produit, on peut l'ajouter au panier http://127.0.0.1:8000/mon-panier
 Easy Admin
 Pour une gestion simplifiée on utilise Easy Admin -> http://127.0.0.1:8000/admin
 On peut y gérer les utilisateurs, les catégories et les produits
+![Capture](https://user-images.githubusercontent.com/37074836/151331728-32a77f44-141d-41ac-bc80-321169849bf5.PNG)
